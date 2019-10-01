@@ -33,7 +33,7 @@ namespace Grundläggande_modellering
                 {
                     book aBook = new book();
 
-                    Console.WriteLine("The customer ");
+                    Console.WriteLine("The customer wishes to sell the book [" + aBook.name + "]");
 
 
                 }
